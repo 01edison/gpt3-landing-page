@@ -1,0 +1,82 @@
+nav {
+  color: white;
+  /* display: flex; */
+  /* justify-content: space-between; */
+}
+
+.nav__heading {
+  width: 62.56px;
+  height: 16.02px;
+  position: absolute;
+  left: 135.66px;
+  top: 74.29px;
+}
+
+.nav__items {
+  width: 566px;
+  list-style-type: none;
+
+  left: 267px;
+  top: 71px;
+}
+
+.nav__items li {
+  font-family: "Manrope", sans-serif;
+  position: absolute;
+  height: 25px;
+  top: 71px;
+}
+
+.nav__items li:nth-child(1) {
+  width: 50px;
+  left: 267px;
+}
+.nav__items li:nth-child(2) {
+  left: 371px;
+}
+.nav__items li:nth-child(3) {
+  width: 65px;
+  left: 517px;
+}
+.nav__items li:nth-child(4) {
+  width: 113px;
+  left: 628px;
+}
+.nav__items li:nth-child(5) {
+  left: 775px;
+}
+
+.nav__buttons {
+  position: absolute;
+  left: 1070px;
+  top: 55px;
+  height: 58px;
+  width: 235px;
+}
+
+.nav__buttons a:nth-child(1) {
+  position: relative;
+  top: 16px;
+  font-size: 18px;
+  font-family: "Manrope";
+  font-weight: 500;
+  line-height: 25px;
+  font-style: normal;
+}
+
+.nav__buttons a:nth-child(2) {
+  display: inline-block;
+  width: 152px;
+  height: 58px;
+  position: absolute;
+  background-color: #ff4820;
+  border-radius: 5px;
+  right: 0;
+  padding-top: 16px;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Manrope";
+  font-weight: 500;
+  line-height: 25px;
+  font-style: normal;
+}
