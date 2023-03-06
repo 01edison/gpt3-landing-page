@@ -1,5 +1,6 @@
 import Navbar from "./../navbar/Navbar";
 import "./home.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const Home = () => {
   return (
@@ -18,6 +19,11 @@ const Home = () => {
               alteration boisterous the attachment. Party we years to order
               allow asked of.
             </p>
+
+            <div className="form__container">
+              <input placeholder="Your Email Address"/>
+              <button>Get Started</button>
+            </div>
           </div>
           <div className="right__side col">
             <img src="/Illustration.png" className="header__image"/>

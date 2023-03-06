@@ -45,3 +45,28 @@ main {
   width: 667.41px;
   height: 701.59px;
 }
+
+.form__container {
+  position: absolute;
+  width: 630px;
+  height: 73px;
+  top: 511px;
+}
+
+.form__container input {
+  height: 100%;
+  width: 456px;
+  background-color: #052d56;
+  border: none;
+  border-radius: 5px 0 0 5px;
+  padding: 24px 250px 22px 32px;
+}
+
+.form__container button {
+  height: 100%;
+  width: 114px;
+  font-family: "Manrope";
+  color: #fff;
+  background-color: #ff4820;
+  border-radius: 0px 5px 5px 0px;
+}
