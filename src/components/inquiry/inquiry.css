@@ -1,0 +1,9 @@
+.inquiry__container {
+  position: absolute;
+  width: 1170px;
+  height: 695px;
+  left: 135px;
+  top: 1044px;
+  background-color: #0F4279;
+  padding: 57px 55px 63px 52px;
+}

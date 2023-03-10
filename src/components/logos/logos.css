@@ -1,0 +1,34 @@
+.logos__container {
+  position: absolute;
+  left: 399px;
+  top: 893px;
+  width: 670.56px;
+  height: 24.15px;
+  display: flex;
+  padding: 0;
+  gap: 46.48px;
+}
+
+.logos__container img:nth-child(1) {
+  width: 71.1px;
+  height: 24.15px;
+}
+
+.logos__container img:nth-child(2) {
+  width: 95.83px;
+  height: 24.15px;
+}
+.logos__container img:nth-child(3) {
+  width: 112.44px;
+  height: 24.15px;
+}
+
+.logos__container img:nth-child(4) {
+  width: 120.74px;
+  height: 24.15px;
+}
+
+.logos__container img:nth-child(5) {
+  width: 84.52px;
+  height: 24.15px;
+}

@@ -1,14 +1,11 @@
-import Navbar from "./../navbar/Navbar";
 import "./home.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 const Home = () => {
   return (
     <div className="home">
-      <Navbar />
       <main>
-        <div className="row">
-          <div className="left__side col">
+        <div className="">
+          <div className="left__side ">
             <h2 className="content__heading">
               Let's Build Something amazing with GPT-3 OpenAI
             </h2>
@@ -25,7 +22,7 @@ const Home = () => {
               <button>Get Started</button>
             </div>
           </div>
-          <div className="right__side col">
+          <div className="right__side ">
             <img src="/Illustration.png" className="header__image"/>
           </div>
         </div>
