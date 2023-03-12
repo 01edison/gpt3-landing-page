@@ -6,7 +6,7 @@ const Snippets = ({ heading, description }) => {
     <div className="snippet-container">
       <div>
         <div className="dash"></div>
-        <h1 className={`snippet-heading`}>{heading}</h1>
+        <h1 className="snippet-heading">{heading}</h1>
       </div>
       <p className="snippet-description">{description}</p>
     </div>

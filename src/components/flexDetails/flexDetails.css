@@ -3,6 +3,7 @@
   justify-content: space-between;
   position: relative;
   width: 100%;
+  margin-bottom: 2rem;
 }
 
 .dash {
@@ -19,7 +20,7 @@
 
 .move-down {
   position: relative;
-  top: 1rem;
+  top: 0.2rem;
 }
 
 .flex-details-heading {
@@ -39,14 +40,15 @@
 }
 
 .smaller-heading {
-  width: 182px;
+  width: 145px;
   height: 48px;
   font-size: 18px;
   line-height: 24px;
+  letter-spacing: -0.001em;
 }
 
 .flex-details-description {
-  width: 731px;
+  width: 721px;
   height: 92px;
   font-family: "Manrope";
   font-style: normal;
@@ -54,4 +56,12 @@
   font-size: 16px;
   line-height: 30px;
   color: #81afdd;
+}
+
+.smaller-width {
+  width: 334px;
+  height: 92px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
 }
