@@ -1,0 +1,21 @@
+.snippet-heading {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 75px;
+  letter-spacing: -0.04em;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+
+.snippet-description {
+  width: 334px;
+  height: 92px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #81afdd;
+}
