@@ -1,0 +1,12 @@
+.possibilities__container {
+  position: relative;
+  width: 1044px;
+  height: 607.53px;
+  left: 177px;
+  top: 1543px;
+}
+
+.images_container img {
+  position: absolute;
+  bottom: 0;
+}
